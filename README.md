@@ -57,20 +57,20 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 1. [5 dic 2025] Tutorial n.3
     <hr />
 
-1. [10 dic 2025] Cosa succede quando si clicca un link: Internet
+1. [11 dic 2025] Cosa succede quando si clicca un link: Internet
    * slide: [Google Slides](https://tinyurl.com/bi1819-06)
    * capitolo: [PDF](https://basic-inf.github.io/2025-2026/chapters/06.pdf)
     <hr />
 
-1. [11 dic 2025] Cosa succede quando si clicca un link: Trasferire informazioni su Internet
+1. [12 dic 2025] Cosa succede quando si clicca un link: Trasferire informazioni su Internet
    * slide: [Google Slides](https://tinyurl.com/bi1819-07)
    * capitolo: [PDF](https://basic-inf.github.io/2025-2026/chapters/07.pdf)
     <hr />
 
-1. [12 dic 2025] Tutorial n.4
+1. [17 dic 2025] Tutorial n.4
     <hr />
 
-1. [17 dic 2025] Cosa succede quando si clicca un link: Le pagine web
+1. [18 dic 2025] Cosa succede quando si clicca un link: Le pagine web
    * slide: [Google Slides](https://tinyurl.com/bi1819-08)
    * capitolo: [PDF](https://basic-inf.github.io/2025-2026/chapters/08.pdf)
     * materiale:
@@ -78,7 +78,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
       * [Esempio](https://basic-inf.github.io/2025-2026/material/example.html) di pagina HTML
     <hr />
 
-1. [18 dic 2025] Wrap-up
+1. [19 dic 2025] Wrap-up
     <hr />
 
 
@@ -86,19 +86,19 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 
 <table>
   <tr><td>14 nov 2025</td><td>11:00 - 13:00</td><td>Introduzione al corso</td></tr>
-  <tr><td>19 nov 2025</td><td>17:00 - 19:00</td><td>Le tecnologie informatiche nelle scienze umane</td></tr>
+  <tr><td>19 nov 2025</td><td>15:00 - 17:00</td><td>Le tecnologie informatiche nelle scienze umane</td></tr>
   <tr><td>20 nov 2025</td><td>11:00 - 13:00</td><td>Tutorial n.1</td></tr>
   <tr><td>21 nov 2025</td><td>11:00 - 13:00</td><td>Computer, pensiero computazionale e strutture dati</td></tr>
-  <tr><td>26 nov 2025</td><td>17:00 - 19:00</td><td>Algoritmi e computabilità</td></tr>
+  <tr><td>26 nov 2025</td><td>15:00 - 17:00</td><td>Algoritmi e computabilità</td></tr>
   <tr><td>27 nov 2025</td><td>11:00 - 13:00</td><td>Linguaggi di programmazione</td></tr>
   <tr><td>28 nov 2025</td><td>11:00 - 13:00</td><td>Tutorial n.2</td></tr>
-  <tr><td>3 dic 2025</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Il World Wide Web</td></tr>
+  <tr><td>3 dic 2025</td><td>15:00 - 17:00</td><td>Cosa succede quando si clicca un link: Il World Wide Web</td></tr>
   <tr><td>4 dic 2025</td><td>11:00 - 13:00</td><td>Cosa succede quando si clicca un link: I protocolli di comunicazione</td></tr>
   <tr><td>5 dic 2025</td><td>11:00 - 13:00</td><td>Tutorial n.3</td></tr>
-  <tr><td>10 dic 2025</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Internet</td></tr>
-  <tr><td>11 dic 2025</td><td>11:00 - 13:00</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td></tr>
-  <tr><td>12 dic 2025</td><td>11:00 - 13:00</td><td>Tutorial n.4</td></tr>
-  <tr><td>17 dic 2025</td><td>17:00 - 19:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td></tr>
-  <tr><td>18 dic 2025</td><td>11:00 - 13:00</td><td>Wrap-up</td></tr>
+  <tr><td>11 dic 2025</td><td>11:00 - 13:00</td><td>Cosa succede quando si clicca un link: Internet</td></tr>
+  <tr><td>12 dic 2025</td><td>11:00 - 13:00</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td></tr>
+  <tr><td>17 dic 2025</td><td>15:00 - 17:00</td><td>Tutorial n.4</td></tr>
+  <tr><td>18 dic 2025</td><td>11:00 - 13:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td></tr>
+  <tr><td>19 dic 2025</td><td>11:00 - 13:00</td><td>Wrap-up</td></tr>
 </table>
     
