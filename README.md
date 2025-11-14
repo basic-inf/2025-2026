@@ -20,7 +20,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 
 1. [19 nov 2025] Le tecnologie informatiche nelle scienze umane
    * slide: [Google Slides](https://tinyurl.com/bi1819-09)
-   * capitolo: [PDF](https://basic-inf.github.io/2025-2026/chapters/00.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2025-2026/chapters/09.pdf)
     <hr />
 
 1. [20 nov 2025] Tutorial n.1
